@@ -1,3 +1,7 @@
+# CS544-hw2
+
+a naive Bayes classifier to identify hotel reviews as either true or fake, and either positive or negative. The program uses the word tokens as features for classification.
+
 Corpus for Homework 2, USC CSCI 544, Spring 2018
 
 Adapted from the Deceptive Opinion Spam Corpus v1.4
